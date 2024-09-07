@@ -6,6 +6,7 @@
     align-items: center;
     margin:100px;
     padding: 20px 40px 20px 40px;
+    max-height: 100vh;
 }
 .details{
     margin-left: 10px;
